@@ -72,6 +72,7 @@ a {
 
 .bottom-link {
   color: #fff;
+  font-family: inherit;
 }
 
 .bottom-item {
@@ -97,10 +98,10 @@ a {
 .team-card {
   color: #2e2f42;
 }
-.list-team {
+.team-list {
 }
 
-.item-team {
+.team-item {
 }
 
 .content-card {
