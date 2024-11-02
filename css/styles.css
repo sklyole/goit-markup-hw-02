@@ -77,16 +77,9 @@ a {
   color: #fff;
 }
 
-.bottom-link:hover,
-.bottom-link:focus {
+.bottom-item:hover,
+.bottom-item:focus {
   background-color: #404bbf;
-}
-
-.bottom-link {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: #fff;
 }
 
 .title-about {
