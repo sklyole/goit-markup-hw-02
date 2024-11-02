@@ -1,3 +1,4 @@
+/* #region Common */
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
@@ -12,10 +13,11 @@ ol {
 a {
   text-decoration: none;
 }
+/* #endregion */
 
+/* #region Title */
 .logo {
   font-family: 'Raleway', sans-serif;
-  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -43,7 +45,6 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .nav-link:hover,
@@ -57,8 +58,8 @@ a {
 .page-footer {
   background-color: #2e2f42;
 }
+
 .title-item {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -81,7 +82,9 @@ a {
 .bottom-item:focus {
   background-color: #404bbf;
 }
+/* #endregion */
 
+/* #region About us */
 .title-about {
   font-weight: 500;
   font-size: 20px;
@@ -91,17 +94,18 @@ a {
 }
 
 .content-about {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+/* #endregion */
 
+/* #region Our team */
 .page-team {
   background-color: #f4f4fd;
 }
+
 .team-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -123,15 +127,15 @@ a {
 }
 
 .team-content {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
 }
+/* #endregion */
 
+/* #region Portfolio */
 .portfolio-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -149,20 +153,21 @@ a {
 }
 
 .portfolio-content {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+/* #endregion */
 
+/* #region Footer */
 .footer-logo .logo-part {
   color: #f4f4fd;
 }
 
 .content-footer {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+/* #endregion */
