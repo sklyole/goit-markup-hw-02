@@ -15,7 +15,7 @@ a {
 }
 /* #endregion */
 
-/* #region Title */
+/* #region Header */
 .logo {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
@@ -45,6 +45,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .nav-link:hover,
@@ -53,7 +54,9 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
+/* #endregion */
 
+/* #region Title */
 .page-title,
 .page-footer {
   background-color: #2e2f42;
